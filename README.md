@@ -49,7 +49,7 @@ Cela installera Node.js version 18 et l'utilisera pour exécuter le bot.
 Une fois que vous avez terminé les étapes ci-dessus, vous êtes prêt à démarrer le bot. Utilisez la commande suivante :
 
 ```bash
-node index.js
+script.js
 ```
 
 Le bot devrait démarrer correctement et être prêt à être utilisé.
